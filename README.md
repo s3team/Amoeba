@@ -61,4 +61,3 @@ As the instrumented code size grows, users can conservatively load the *.text* s
 address 0x7048000 to leave additional memory space.
 
 Please refer to *README_uroboros.md* for how to write linker scripts.
-# Amoeba
